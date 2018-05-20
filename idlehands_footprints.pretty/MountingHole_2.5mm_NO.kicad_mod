@@ -1,4 +1,4 @@
-(module project_footprints:MountingHole_2.5mm (layer F.Cu) (tedit 58479E6A)
+(module idlehands_footprints:MountingHole_2.5mm_NO (layer F.Cu) (tedit 5953B5BE)
   (descr "Mounting hole, Befestigungsbohrung, 3mm, No Annular, Kein Restring,")
   (tags "Mounting hole, Befestigungsbohrung, 3mm, No Annular, Kein Restring,")
   (fp_text reference REF** (at 0 -4.0005) (layer F.SilkS) hide
@@ -7,5 +7,6 @@
   (fp_text value MountingHole_2.5mm (at 1.00076 5.00126) (layer F.Fab) hide
     (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
+  (fp_circle (center 0 0) (end 2 0) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole circle (at -0.025 0) (size 2.5 2.5) (drill 2.5) (layers *.Cu))
 )

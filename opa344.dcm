@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA344
+D Op Amp in 5-pin package
+K op amp amplifier operational 
+F http://www.ti.com/lit/gpn/opa376
+$ENDCMP
+#
+#End Doc Library
